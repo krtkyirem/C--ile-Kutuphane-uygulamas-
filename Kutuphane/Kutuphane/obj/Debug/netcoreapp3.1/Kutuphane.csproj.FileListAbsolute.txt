@@ -1,0 +1,14 @@
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.exe
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.deps.json
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.runtimeconfig.json
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.runtimeconfig.dev.json
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.dll
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\bin\Debug\netcoreapp3.1\Kutuphane.pdb
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.AssemblyInfo.cs
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.dll
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.pdb
+C:\Users\irems\Desktop\Github-Projeler\Kutuphane\Kutuphane\obj\Debug\netcoreapp3.1\Kutuphane.genruntimeconfig.cache
